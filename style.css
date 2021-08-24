@@ -143,12 +143,9 @@ text-align: center;
   }
 
 .jumbotron {
-    background-image: url("Assets/Img/dollarrain.png");
-    background-color: #00F3FF;
+    background:transparent !important
 }
+
 
 background-image: url("Assets/Img/dollarrain.png");
 
-.jumbo1 {
-    background-image: url("Assets/Img/dollarrain.png");
-}
