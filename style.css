@@ -1,0 +1,154 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  #navlogo {
+    width: 60px;
+    height: 30px;
+}
+
+#carouimg {
+    width:100%;
+    height:auto;
+  }
+
+.carousel-caption {
+position: absolute;
+margin: 0;
+color: white;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+
+
+}
+
+#imagen {
+text-align: center;
+border-radius: 50%;
+height: 90%;
+width: 90%;
+
+
+}
+
+.sectiontext {
+margin: 50px;
+padding-top: 25px;
+vertical-align: baseline
+
+}
+
+.spacer1 {
+padding: 20px;
+}
+
+.spacer2 {
+padding: 40px;
+}
+
+
+.section1 {
+padding-top: 20px;
+padding-bottom: 15px;
+background-image: url("Assets/Img/dollarrain.png");
+}
+
+.imgbox {
+padding: 10px;
+text-align: center;
+
+}
+
+.jumbosection {
+padding: 20px;
+}
+
+.jumbotron {
+background-color: white;
+}
+
+#textright {
+text-align: right;
+}
+
+.title {
+text-align: center;
+}
+
+#compimg1 {
+width: auto;
+height: 100px;
+text-align: center;
+}
+
+#compimg2 {
+width: 30px;
+height: 110px;
+text-align: center;
+}
+
+#compimg3 {
+width: 30px;
+height: 100px;
+text-align: center;
+}
+
+.complogos {
+text-align: center;
+padding: 20px;
+padding-bottom: 10px;
+}
+
+#Section1 {
+background-color: ;
+padding-top: 25px;
+padding-bottom: 20px;
+}
+
+footer {
+background-color: ;
+text-align: center;
+padding: 5px;
+}
+
+#conecticons {
+text-align: center;
+
+}
+
+#icon {
+height: 95px;
+width: 95px;
+}
+
+.Businfo {
+text-align: center;
+}
+
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+
+.jumbotron {
+    background-image: url("Assets/Img/dollarrain.png");
+    background-color: #00F3FF;
+}
+
+background-image: url("Assets/Img/dollarrain.png");
+
+.jumbo1 {
+    background-image: url("Assets/Img/dollarrain.png");
+}
